@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     
     <PropertyGroup>
-        <TargetFramework>netstandard2.1</TargetFramework>
+        <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>4</LangVersion>
         <PackageId>AwesomeSockets</PackageId>
         <PackageDescription>A fast, lightweight, and easy to use socket library for C#.</PackageDescription>
